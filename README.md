@@ -42,12 +42,34 @@
 - 🎯 Targeting internships and strong placements
 
 ***
-
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode" alt="Tech stack" />
-</p>
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frontend
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+
+
+
 
 ***
 
@@ -65,48 +87,48 @@
 </p>
 
 ***
+## ⚡ Currently Learning
+
+- Data Structures & Algorithms
+- Problem Solving in C++
+- Web Development
+- Git & GitHub
+- VLSI Fundamentals
+- Cadence Virtuoso
+
 
 ## 📈 Coding Journey
 
 ```text
-DSA                 ████████████░░░░░░░░  65%
-C++                 ███████████░░░░░░░░░  60%
-Problem Solving     ███████████░░░░░░░░░  60%
-Git & GitHub        ████████░░░░░░░░░░░░  45%
-HTML/CSS            ██████░░░░░░░░░░░░░░  35%
-VLSI                ██░░░░░░░░░░░░░░░░░░  10%
+DSA                 ████████████░░░░░░  65%
+C++                 ███████████░░░░░░░  60%
+Python              ██████████░░░░░░░░  55%
+Problem Solving     ███████████░░░░░░░  60%
+Git & GitHub        ████████░░░░░░░░░░  45%
+HTML/CSS            ██████░░░░░░░░░░░░  35%
+VLSI                ██░░░░░░░░░░░░░░░░  10%
 ```
 
 ***
 
-## 🎯 Current Goals
 
-- Reach 300+ LeetCode problems
-- Master DSA in C++
-- Build strong projects
-- Learn Web Development deeply
-- Start VLSI design journey
-- Secure an internship opportunity
 
 ***
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Profile
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" />
 </p>
-
-## 🏅 LeetCode Contest
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="LeetCode contest stats" />
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" />
 </p>
-
-## 🔥 LeetCode Heatmap
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" alt="LeetCode heatmap" />
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" />
 </p>
+
 
 ***
 
@@ -139,15 +161,16 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
 
 ***
 
-## ⚡ Currently Learning
 
-- Data Structures & Algorithms
-- Problem Solving in C++
-- Web Development
-- Git & GitHub
-- VLSI Fundamentals
-- Cadence Virtuoso
 
+## 🎯 Current Goals
+
+- Reach 300+ LeetCode problems
+- Master DSA in C++
+- Build strong projects
+- Learn Web Development deeply
+- Start VLSI design journey
+- Secure an internship opportunity
 ***
 
 ## 💡 Developer Philosophy
