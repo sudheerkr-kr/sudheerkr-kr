@@ -38,3 +38,8 @@
 ### 🌟 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sudheerkumar427/
+
+ ## 🏆 LeetCode
+
+- Problems Solved: 100+
+- Language: C++
