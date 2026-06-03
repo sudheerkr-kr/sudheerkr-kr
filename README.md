@@ -61,12 +61,11 @@ ECE Student | DSA Enthusiast | Future VLSI & Software Engineer
 
 - 🎓 B.Tech Electronics & Communication Engineering (ECE)
 - 💻 Solving Data Structures & Algorithms in C++
-- 🔥 96+ LeetCode Problems Solved and Counting
-- 🌱 Currently Learning OOPs, DBMS and Development
-- ⚡ Exploring VLSI Design, Cadence Tools & Embedded Systems
-- 📚 Consistently improving problem solving skills
-- 🎯 Goal: Secure a Great Internship and Placement
-
+- 🔥 LeetCode Problems Solving regularly
+- 🌱 Learning Development & Problem Solving
+- ⚡ Interested in VLSI, Embedded Systems and Software Development
+- 📚 Consistently improving coding skills
+- 🎯 Goal: Internship + Strong Placement
 ---
 
 ## 🌐 Connect With Me
@@ -104,21 +103,23 @@ ECE Student | DSA Enthusiast | Future VLSI & Software Engineer
 ### Core Subjects
 
 - Data Structures & Algorithms
-- Object Oriented Programming
-- DBMS
-- Computer Networks
-- Operating Systems
-
-### ECE Skills
-
 - Digital Electronics
 - Analog Electronics
 - Signals & Systems
 - Communication Systems
 - Microprocessors & Microcontrollers
+
+
+### ECE Skills
 - VLSI Fundamentals
 - Embedded Systems (Learning)
 - Cadence Virtuoso (Learning)
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ### Tools
 
@@ -130,11 +131,11 @@ ECE Student | DSA Enthusiast | Future VLSI & Software Engineer
 
 # 📌 Featured Projects
 
-### 🔹 Smart Traffic Management System
+### 🔹 Smart Traffic Management System (upcoming)
 - Traffic optimization concepts
 - ECE + Programming based project
 
-### 🔹 Student Management System
+### 🔹 Student Management System (upcoming)
 - C++ based project
 - OOP concepts implementation
 
@@ -150,13 +151,19 @@ ECE Student | DSA Enthusiast | Future VLSI & Software Engineer
 
 ---
 
-# 📈 Coding Journey
-
-```text
-DSA                 ██████████░░░░░░░░  55%
+DSA                 ████████████░░░░░░  65%
 C++                 ███████████░░░░░░░  60%
 Problem Solving     ███████████░░░░░░░  60%
-OOPs                ████████░░░░░░░░░░  45%
-DBMS                ███████░░░░░░░░░░░  40%
-VLSI                █████░░░░░░░░░░░░░  30%
-Embedded Systems    ████░░░░░░░░░░░░░░  25%
+Git & GitHub        ████████░░░░░░░░░░  45%
+HTML/CSS            ██████░░░░░░░░░░░░  35%
+VLSI                ██░░░░░░░░░░░░░░░░  10%
+
+# 🎯 Current Goals
+
+- [ ] Reach 300+ LeetCode Problems
+- [ ] Master DSA in C++
+- [ ] Build 3 Strong Projects
+- [ ] Learn Web Development
+- [ ] Learn Cadence Virtuoso
+- [ ] Start VLSI Design Journey
+- [ ] Secure Internship Opportunity
