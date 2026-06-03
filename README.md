@@ -132,42 +132,82 @@ VLSI                ██░░░░░░░░░░░░░░░░  10%
 
 </p>
 
-## 🏆 LeetCode Stats
+---
+
+# 🏆 LeetCode Stats
+
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" />
 </p>
 
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&ext=heatmap" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sudheerkr-kr&theme=tokyonight&hide_border=true" />
 </p>
 
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sudheerkr-kr&theme=tokyonight" />
-</p>
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudheerkr-kr&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=sudheerkr-kr&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+# 📋 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheerkr-kr&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 Contribution Stats
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudheerkr-kr&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudheerkr-kr&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudheerkr-kr&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudheerkr-kr&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/sudheerkr-kr/sudheerkr-kr/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ## ⚡ Currently Learning
