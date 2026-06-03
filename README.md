@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar</h1>
-<h3 align="center">ECE Student -  DSA Enthusiast -  Future VLSI & Software Engineer</h3>
+<h3 align="center">ECE Student -  DSA Enthusiast -  Future Engineer</h3>  
+<!-- VLSI & Software -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Electronics+and+Communication+Engineering+Student;DSA+in+C%2B%2B;LeetCode+Problem+Solver;Learning+VLSI+and+Embedded+Systems;Building+Projects+and+Improving+Every+Day" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Electronics+and+Communication+Engineering+Student;DSA+in+C%2B%2B;LeetCode+Problem+Solver;Learning+VLSI+and+Embedded+Systems;Building+Projects+and+Improving+Every+Day" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -35,49 +36,44 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering
-- 💻 Practicing DSA and problem solving in C++
-- 🔥 Regular LeetCode learner
+- 🎓 B.Tech student in Electronics & Communication Engineering
+- 💻 Practicing Data Structures & Algorithms in C++
+- 🔥 Regular LeetCode problem solver
 - 🌱 Learning Web Development, VLSI, and Embedded Systems
-- 🎯 Targeting internships and strong placements
+- 🎯 Working toward internships and strong placements
+- ⚡ Belief: consistency and steady improvement beat short bursts of effort
 
 ***
+
 ## 💻 Tech Stack
 
 ### Languages
-
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Frontend
-
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </p>
 
 ### ECE Tools
-
 <p align="center">
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TINA--TI-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cadence_Virtuoso-Learning-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/TINA--TI-0066CC?style=for-the-badge" alt="TINA TI" />
+  <img src="https://img.shields.io/badge/Cadence_Virtuoso-Learning-darkgreen?style=for-the-badge" alt="Cadence Virtuoso" />
 </p>
 
 ### Tools & Platforms
-
 <p align="center">
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
 </p>
-
-
-
 
 ***
 
@@ -95,6 +91,7 @@
 </p>
 
 ***
+
 ## ⚡ Currently Learning
 
 - Data Structures & Algorithms
@@ -104,39 +101,46 @@
 - VLSI Fundamentals
 - Cadence Virtuoso
 
+***
 
 ## 📈 Coding Journey
 
 ```text
-DSA                 ████████████░░░░░░  65%
-C++                 ███████████░░░░░░░  60%
-Python              ██████████░░░░░░░░  55%
-Problem Solving     ███████████░░░░░░░  60%
-Git & GitHub        ████████░░░░░░░░░░  45%
-HTML/CSS            ██████░░░░░░░░░░░░  35%
-VLSI                ██░░░░░░░░░░░░░░░░  10%
+DSA                 ████████████░░░░░░░░  65%
+C++                 ███████████░░░░░░░░░  60%
+Python              ██████████░░░░░░░░░░  55%
+Problem Solving     ███████████░░░░░░░░░  60%
+Git & GitHub        ████████░░░░░░░░░░░░  45%
+HTML/CSS            ██████░░░░░░░░░░░░░░  35%
+VLSI                ██░░░░░░░░░░░░░░░░░░  10%
 ```
 
 ***
 
+## 🎯 Current Goals
 
+- Reach 300+ LeetCode problems
+- Master DSA in C++
+- Build strong projects
+- Learn Web Development deeply
+- Start VLSI design journey
+- Secure an internship opportunity
 
 ***
 
 ## 🏆 LeetCode Profile
 
-<!-- <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" alt="LeetCode stats" />
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" />
-</p> -->
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="LeetCode contest stats" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" alt="LeetCode heatmap" />
+</p>
 
 ***
 
@@ -167,18 +171,6 @@ VLSI                ██░░░░░░░░░░░░░░░░  10%
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheerkr-kr&theme=tokyonight" alt="Profile summary" />
 </p>
 
-***
-
-
-
-## 🎯 Current Goals
-
-- Reach 300+ LeetCode problems
-- Master DSA in C++
-- Build strong projects
-- Learn Web Development deeply
-- Start VLSI design journey
-- Secure an internship opportunity
 ***
 
 ## 💡 Developer Philosophy
