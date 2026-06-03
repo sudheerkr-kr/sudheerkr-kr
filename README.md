@@ -121,6 +121,24 @@ VLSI                ██░░░░░░░░░░░░░░░░  10%
 * [ ] Secure Internship Opportunity
 
 ---
+---
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-100%2B_Problems-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/DSA-C++-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem_Solving-Daily-success?style=for-the-badge"/>
+
+</p>
+
+## 🏆 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
