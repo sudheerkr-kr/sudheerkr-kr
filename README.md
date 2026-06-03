@@ -43,3 +43,120 @@
 
 - Problems Solved: 100+
 - Language: C++
+
+
+<h1 align="center">Hi 👋, I'm Sudheer Kumar</h1>
+
+<h3 align="center">
+ECE Student | DSA Enthusiast | Future VLSI & Software Engineer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Electronics+and+Communication+Engineering+Student;DSA+in+C%2B%2B;Learning+VLSI+and+Embedded+Systems;Building+Projects+and+Improving+Every+Day;Future+Software+Engineer" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech Electronics & Communication Engineering (ECE)
+- 💻 Solving Data Structures & Algorithms in C++
+- 🔥 96+ LeetCode Problems Solved and Counting
+- 🌱 Currently Learning OOPs, DBMS and Development
+- ⚡ Exploring VLSI Design, Cadence Tools & Embedded Systems
+- 📚 Consistently improving problem solving skills
+- 🎯 Goal: Secure a Great Internship and Placement
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-96%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### Core Subjects
+
+- Data Structures & Algorithms
+- Object Oriented Programming
+- DBMS
+- Computer Networks
+- Operating Systems
+
+### ECE Skills
+
+- Digital Electronics
+- Analog Electronics
+- Signals & Systems
+- Communication Systems
+- Microprocessors & Microcontrollers
+- VLSI Fundamentals
+- Embedded Systems (Learning)
+- Cadence Virtuoso (Learning)
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🔹 Smart Traffic Management System
+- Traffic optimization concepts
+- ECE + Programming based project
+
+### 🔹 Student Management System
+- C++ based project
+- OOP concepts implementation
+
+### 🔹 Embedded Systems Projects (Upcoming)
+- Arduino Based Projects
+- Sensor Integration
+- IoT Concepts
+
+### 🔹 VLSI Projects (Upcoming)
+- CMOS Design
+- Layout Design
+- Cadence Virtuoso Based Work
+
+---
+
+# 📈 Coding Journey
+
+```text
+DSA                 ██████████░░░░░░░░  55%
+C++                 ███████████░░░░░░░  60%
+Problem Solving     ███████████░░░░░░░  60%
+OOPs                ████████░░░░░░░░░░  45%
+DBMS                ███████░░░░░░░░░░░  40%
+VLSI                █████░░░░░░░░░░░░░  30%
+Embedded Systems    ████░░░░░░░░░░░░░░  25%
