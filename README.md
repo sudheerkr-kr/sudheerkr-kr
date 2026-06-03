@@ -133,10 +133,10 @@ VLSI                ██░░░░░░░░░░░░░░░░  10%
 </p>
 
 ## 🏆 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" />
 </p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&ext=heatmap" />
 </p>
@@ -146,27 +146,27 @@ VLSI                ██░░░░░░░░░░░░░░░░  10%
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudherkr-kr&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudherkr-kr&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight" />
 </p>
+
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudherkr-kr&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sudheerkr-kr&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudherkr-kr&theme=tokyonight&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sudheerkr-kr&theme=tokyonight" />
 </p>
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudherkr-kr&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&theme=tokyo-night" />
 </p>
 ---
 
