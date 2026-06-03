@@ -135,7 +135,10 @@ VLSI                ██░░░░░░░░░░░░░░░░  10%
 ## 🏆 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" />
+</p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
