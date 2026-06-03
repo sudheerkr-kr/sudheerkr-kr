@@ -93,7 +93,19 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
 ## 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" alt="LeetCode stats" />
+</p>
+
+## 🏅 LeetCode Contest
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="LeetCode contest stats" />
+</p>
+
+## 🔥 LeetCode Heatmap
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" alt="LeetCode heatmap" />
 </p>
 
 ***
@@ -150,4 +162,3 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 <p align="center">Keep Learning -  Keep Building -  Keep Growing 🚀</p>
-
