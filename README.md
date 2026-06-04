@@ -146,15 +146,15 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
 
 ## 📊 GitHub Overview
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudheerkr-kr&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerkr-kr&theme=tokyonight" />
 </p>
-
 ***
 
 ## 📈 Activity Graph
