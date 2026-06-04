@@ -146,14 +146,12 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
 
 ## 📊 GitHub Overview
 
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerkr-kr&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=radical" />
 </p>
 ***
 
