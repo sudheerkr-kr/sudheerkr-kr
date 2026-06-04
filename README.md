@@ -162,7 +162,12 @@ VLSI                ██░░░░░░░░░░░░░░░░░░
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheerkr-kr&theme=tokyonight" alt="Profile summary" />
 </p>
 
+## 📈 Contribution Graph
+
+[![Sudheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/sudheerkr-kr)
 ***
+
+
 
 ## 💡 Developer Philosophy
 
