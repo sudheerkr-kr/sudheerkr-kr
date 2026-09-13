@@ -104,6 +104,129 @@
 
 ***
 
+***
+
+## 🏆 LeetCode Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/sudheer4_27/">
+    <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" alt="Sudheer's LeetCode Stats" />
+  </a>
+</p>
+
+### 📊 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="Sudheer's LeetCode Contest Stats" />
+</p>
+
+### 🔥 Submission Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" alt="Sudheer's LeetCode Submission Heatmap" />
+</p>
+
+### 📈 Problem Solving Statistics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-439-success?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Days-172-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Contests-22-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LeetCode%20Rating-1273-yellow?style=for-the-badge" />
+</p>
+
+<table align="center">
+  <tr>
+    <th>Category</th>
+    <th>Problems</th>
+  </tr>
+  <tr>
+    <td>🧩 Fundamentals</td>
+    <td><strong>20</strong></td>
+  </tr>
+  <tr>
+    <td>💻 DSA</td>
+    <td><strong>365</strong></td>
+  </tr>
+  <tr>
+    <td>⚡ Competitive Programming</td>
+    <td><strong>54</strong></td>
+  </tr>
+</table>
+
+### 🎯 Difficulty Breakdown
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-187-00B8A3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-149-FFC01E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-23-FF375F?style=for-the-badge" />
+</p>
+
+### 🏁 Competitive Programming
+
+<table align="center">
+  <tr>
+    <th>Platform</th>
+    <th>Problems / Rating</th>
+  </tr>
+  <tr>
+    <td>🟢 CodeChef</td>
+    <td><strong>46</strong></td>
+  </tr>
+  <tr>
+    <td>🔵 Codeforces</td>
+    <td><strong>8</strong></td>
+  </tr>
+</table>
+
+### 🏅 Contest Ratings
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1273-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-1207-brown?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-873-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef%20DSA-1449-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sudheer4_27/">
+    <img src="https://img.shields.io/badge/View%20Full%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+***
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerkr-kr&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+***
+
+## 📋 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheerkr-kr&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+***
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/sudheerkr-kr">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Sudheer's GitHub Activity Graph" />
+  </a>
+</p>
+
+***
+
 ## 📈 Coding Journey
 
 ```text
