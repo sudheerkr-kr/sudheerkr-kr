@@ -195,10 +195,20 @@
 
 ***
 
+
 ## 📋 Profile Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheerkr-kr&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+***
+***
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudheerkr-kr/sudheerkr-kr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ***
