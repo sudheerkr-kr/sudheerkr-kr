@@ -205,17 +205,6 @@
 ***
 ***
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sudheerkr-kr/sudheerkr-kr/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-***
-
-***
-***
-
 ## 🟩 GitHub Contributions
 
 <p align="center">
@@ -224,6 +213,21 @@
     alt="GitHub Contributions"
   />
 </p>
+
+***
+***
+
+***
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr"
+    alt="Sudheer's GitHub Contribution Graph"
+  />
+</p>
+
 ***
 ***
 
