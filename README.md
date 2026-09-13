@@ -109,20 +109,6 @@
 ## 🏆 LeetCode Profile
 
 <p align="center">
-  <a href="https://leetcode.com/u/sudheer4_27/">
-    <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" alt="Sudheer's LeetCode Stats" />
-  </a>
-</p>
-
-### 📊 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="Sudheer's LeetCode Contest Stats" />
-</p>
-
-### 🔥 Submission Activity
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" alt="Sudheer's LeetCode Submission Heatmap" />
 </p>
 
