@@ -216,12 +216,14 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/sudheerkr-kr">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Sudheer's GitHub Activity Graph" />
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sudheer's GitHub Contribution Graph"
+  />
 </p>
 
 ***
+
 
 ## 📈 Coding Journey
 
