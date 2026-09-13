@@ -213,15 +213,18 @@
 
 ***
 
+***
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr"
     alt="Sudheer's GitHub Contribution Graph"
   />
 </p>
 
+***
 ***
 
 
