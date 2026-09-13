@@ -216,15 +216,14 @@
 ***
 ***
 
-## 📈 Contribution Graph
+## 🟩 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr"
-    alt="Sudheer's GitHub Contribution Graph"
+    src="https://ssr-contributions-svg.vercel.app/_/sudheerkr-kr?chart=calendar&format=svg&theme=dark&weeks=52"
+    alt="GitHub Contributions"
   />
 </p>
-
 ***
 ***
 
