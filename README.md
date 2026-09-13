@@ -228,28 +228,6 @@
 
 ***
 
-## 🟩 GitHub Contributions
-
-<p align="center">
-  <img
-    src="https://ssr-contributions-svg.vercel.app/_/sudheerkr-kr?chart=calendar&format=svg&theme=dark"
-    alt="GitHub Contributions"
-  />
-</p>
-
-***
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&theme=tokyo-night&hide_border=true&area=true"
-    alt="Sudheer's GitHub Activity Graph"
-  />
-</p>
-
-***
-
 
 ## 📈 Coding Journey
 
