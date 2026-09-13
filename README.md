@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudheer Kumar</h1>
-<h3 align="center">ECE Student -  DSA Enthusiast -  Future Engineer</h3>  
+<h3 align="center">ECE Student - DSA Enthusiast - Future Engineer</h3>  
+
 <!-- VLSI & Software -->
 
 <p align="center">
@@ -36,7 +37,9 @@
 
 - 🎓 B.Tech student in Electronics & Communication Engineering
 - 💻 Practicing Data Structures & Algorithms in C++
-- 🔥 Regular LeetCode problem solver
+- 🔥 Solved **439 LeetCode problems**
+- 📅 **172 active coding days** on LeetCode
+- 🏆 Participated in **22 contests**
 - 🌱 Learning Web Development, VLSI, and Embedded Systems
 - 🎯 Working toward internships and strong placements
 - ⚡ Belief: consistency and steady improvement beat short bursts of effort
@@ -104,78 +107,10 @@
 ## 📈 Coding Journey
 
 ```text
-DSA                 ████████████░░░░░░░░  65%
+DSA                 █████████████████░░░  83%
 C++                 ███████████░░░░░░░░░  60%
 Python              ██████████░░░░░░░░░░  55%
 Problem Solving     ███████████░░░░░░░░░  60%
 Git & GitHub        ████████░░░░░░░░░░░░  45%
 HTML/CSS            ██████░░░░░░░░░░░░░░  35%
 VLSI                ██░░░░░░░░░░░░░░░░░░  10%
-```
-
-***
-
-## 🎯 Current Goals
-
-- Reach 300+ LeetCode problems
-- Master DSA in C++
-- Build strong projects
-- Learn Web Development deeply
-- Start VLSI design journey
-- Secure an internship opportunity
-
-***
-
-## 🏆 LeetCode Profile
-
-<!-- <p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma" alt="LeetCode stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=contest" alt="LeetCode contest stats" />
-</p> -->
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/sudheer4_27?theme=dark&font=Karma&ext=heatmap" alt="LeetCode heatmap" />
-</p>
-
-***
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sudheerkr-kr&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerkr-kr&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerkr-kr&theme=tokyonight" />
-</p>
-***
-
-## 📋 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudheerkr-kr&theme=tokyonight" alt="Profile summary" />
-</p>
-
-## 📈 Contribution Graph
-
-[![Sudheer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true)](https://github.com/sudheerkr-kr)
-***
-
-
-
-## 💡 Developer Philosophy
-
-> Consistency beats intensity.
->
-> Small progress every day leads to big results.
->
-> Keep learning, keep building.
-
-***
-
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-<p align="center">Keep Learning -  Keep Building -  Keep Growing 🚀</p>
