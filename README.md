@@ -205,17 +205,16 @@
 ***
 ***
 
+***
+
 ## 🟩 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://ssr-contributions-svg.vercel.app/_/sudheerkr-kr?chart=calendar&format=svg&theme=dark&weeks=52"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sudheerkr-kr&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true"
     alt="GitHub Contributions"
   />
 </p>
-
-***
-***
 
 ***
 
